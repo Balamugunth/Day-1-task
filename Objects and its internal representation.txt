@@ -1,0 +1,3 @@
+Objects and its internal representation in javascript:
+------------------------------------------------------
+Objects are important data types in javascript. Objects are different than primitive datatypes(i.e. number, string, boolean, etc.). primitive datat types contain one value but objects can hold many values in form of key: value pair. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object. Every object has some property associated with some value. These values can be accessed using these properties associated with them.
